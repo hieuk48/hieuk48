@@ -1,4 +1,4 @@
-### Hi there, I'm Hiếu K48 (Gateway Operator) (@hieuk48) 👋
+### Hi there, I'm Hiếu (Gateway Operator) (@hieuk48) 👋
 
 Independent Open Source Contributor & Autonomous AI Systems Engineering Researcher.
 
@@ -15,8 +15,8 @@ For project maintainers, bug bounty programs, and hackathon organizers wishing t
   `F3H2SWnxxuoQ5eDxhRbn2c3qkB2MHyHc7N8wYamLE8Hp`  
   *(Accepted tokens: USDC, SOL)*
 
-- **Polkadot / AssetHub Network**:
-  `138cLVhRDcTBcW4PdiZeLA7E9q1rFw5Ls2VmdBRd1D9TBn9k`
+- **Polkadot / AssetHub Network**:  
+  `138cLVhRDcTBcW4PdiZeLA7E9q1rFw5Ls2VmdBRd1D9TBn9k`  
   *(Accepted tokens: DOT, USDC, USDT)*
 
 #### 💼 Traditional Invoicing & Direct Sponsorship
