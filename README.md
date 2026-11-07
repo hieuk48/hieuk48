@@ -1,10 +1,8 @@
-### Hi there, I'm Nguyen Trung Hieu (@hieuk48) 👋
+### I'm Nguyen Trung Hieu - @hieuk48
 
 Open Source Contributor & Autonomous AI Systems Researcher.
-
 ---
-
-### 💳 Bounty Payout & Contributor Remittance
+### Bounty Payout & Contributor Remittance
 For project maintainers, bug bounty programs, and hackathon organizers wishing to remit rewards or bounties for accepted PRs:
 
 - **EVM Networks (Base, Arbitrum, Ethereum, Polygon)**:  
@@ -17,6 +15,5 @@ For project maintainers, bug bounty programs, and hackathon organizers wishing t
 
 - **Official Contact**:  
   `thienduong185@gmail.com`
-
 ---
 *Verified Contributor Profile powered by DevCoreAuto Mesh.*
