@@ -1,4 +1,4 @@
-Hi there, I'm Nguyen Trung Hieu (@hieuk48) 👋
+HI, I'm Nguyen Trung Hieu -
 Open Source Software Contributor & Full-Stack Systems Engineer.
 
 💳 Bounty Payout & Contributor Remittance
@@ -20,3 +20,4 @@ Official Contact:
 thienduong185@gmail.com
 
 Independent Open Source Contributor.
+Thanks!
